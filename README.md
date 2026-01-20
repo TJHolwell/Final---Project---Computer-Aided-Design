@@ -11,14 +11,14 @@ This project redesigns a centrifugal pump impeller to improve flow efficiency an
 
 ## Objectives
 - Improve flow efficiency through blade geometry optimization
-- Reduce stress concentrations through design improvements
+- Monitor stress concentrations through design improvements
 - Explore material options for durability and performance
 
 ## Design Process
 1. Imported original impeller model
-2. Redesigned blade curvature and thickness
-3. Applied fillets to reduce stress points
-4. Conducted stress and/or flow analysis
+2. Redesigned blade curvature and thickness to increase pump efficiency 
+3. Apply fillets to reduce stress points
+4. Conducted stress and/or flow analysis to test design 
 
 ## Images
 <!-- Add screenshots here -->
