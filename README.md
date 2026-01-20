@@ -1,4 +1,4 @@
-# Final---Project---Computer-Aided-Design
+# Computer Aided Design | Centrifugal Pump Impeller Redesign
 Optimized Centrifugal Pump Impeller for Improved Flow Efficiency and Reduced Stress Using CAD and Simulation
 # Optimized Centrifugal Pump Impeller Design
 
